@@ -4,7 +4,7 @@ import urllib.request
 def welcome_msg():
     print('|-------------------------------------------------------|')
     print('|          SSH-BRUTE-FORCE   A R A C I N A   H O Ş G E L D İ N İ Z          |')
-    print('|                   yaratıcısı: ENESCDQ                  |')
+    print('|                   yapan: enesdq                |')
     print('|-------------------------------------------------------|')
 
 def prompt(msg, error_msg):
