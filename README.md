@@ -41,9 +41,13 @@ Lütfen başarı mesajını girin: Giriş Başarılı
 Lütfen bir saldırı vektörü seçin (GET, POST, COOKIE): GET
 
 [+] Saldırı başlatıldı!
+
 [+] Deneniyor parametre = 0
+
 [+] Deneniyor parametre = 1
+
 [+] Deneniyor parametre = 42
+
 [+] Saldırı başarılı! Başarı mesajı parametre = 42 olduğunda bulundu.
 
 Cevabı burada yazdıralım mı? (Evet / Hayır): evet
