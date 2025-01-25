@@ -35,7 +35,9 @@ Bu araç yalnızca **yetkili testler** için tasarlanmıştır. Aracı kullanmad
 |-------------------------------------------------------|
 
 Lütfen URL'yi girin (gerekliyse bir eğik çizgiyle bitirin): http://hedef-sunucu.com
+
 Lütfen başarı mesajını girin: Giriş Başarılı
+
 Lütfen bir saldırı vektörü seçin (GET, POST, COOKIE): GET
 
 [+] Saldırı başlatıldı!
