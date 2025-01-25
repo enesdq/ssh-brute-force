@@ -26,7 +26,7 @@ Bu araç yalnızca **yetkili testler** için tasarlanmıştır. Aracı kullanmad
    ```bash
    git clone https://github.com/enesdq/ssh-brute-force
    python ssh-brute-force.py
- ## örenek çalışma
+ ## örnek çalışma
 
  
  |-------------------------------------------------------|
