@@ -31,7 +31,7 @@ Bu araç yalnızca **yetkili testler** için tasarlanmıştır. Aracı kullanmad
  
  |-------------------------------------------------------|
 |          SSH-BRUTE-FORCE   A R A C I N A   H O Ş G E L D İ N İ Z          |
-|                   yaratıcısı: ENESCDQ                  |
+|                 yapın: ENESCDQ                  |
 |-------------------------------------------------------|
 
 Lütfen URL'yi girin (gerekliyse bir eğik çizgiyle bitirin): http://hedef-sunucu.com
